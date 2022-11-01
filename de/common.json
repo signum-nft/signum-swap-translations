@@ -330,7 +330,7 @@
   "tokenOrder": "Token-Auftrag",
   "tokenOrder_other": "Token-Aufträge",
   "tokenOrderDescription": "Verwalte deine Spot-Handelsaufträge!",
-  "tokenPriceTokenCard": "{{Ticker}} Preis: {{Preis}} SIGNA",
+  "tokenPriceTokenCard": "{{ticker}} Preis: {{price}} SIGNA",
   "tokenRemovedFromHiddenList": "Token erfolgreich aus der Ausgeblendeten-Liste entfernt",
   "tokenRemovedSuccessfully": "Token wurde erfolgreich aus der Liste entfernt!",
   "tokensAreHidden": "Es sieht so aus, als ob dieses Konto alle Token ausgeblendet hat!",
