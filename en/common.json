@@ -254,6 +254,7 @@
   "price": "Price",
   "privacyPolicy": "Privacy Policy",
   "receiverAddress": "Receiver address",
+  "reservedBalance": "Reserved Balance",
   "resource": "Resource",
   "resource_other": "Resources",
   "searchCoin": "Search Coin",

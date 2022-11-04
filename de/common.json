@@ -254,6 +254,7 @@
   "price": "Preis",
   "privacyPolicy": "Datenschutz-Bestimmungen",
   "receiverAddress": "Empfängeradresse",
+  "reservedBalance": "Reservierter Saldo",
   "resource": "Ressource",
   "resource_other": "Ressourcen",
   "searchCoin": "Smart Token suchen",

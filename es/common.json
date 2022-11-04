@@ -254,6 +254,7 @@
   "price": "Precio",
   "privacyPolicy": "Política de privacidad",
   "receiverAddress": "Dirección del destinatario",
+  "reservedBalance": "Saldo reservado",
   "resource": "Recurso",
   "resource_other": "Recursos",
   "searchCoin": "Moneda de búsqueda",
