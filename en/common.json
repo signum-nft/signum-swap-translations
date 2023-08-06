@@ -106,7 +106,7 @@
   "beforeCreateTokenCTATitle": "In case you are creating your first token on Signum Blockchain, we recommend reading the following guide",
   "beginTrading": "Complete the fields to begin trading!",
   "biggestGainer": "Biggest gainer",
-  "biggestLoss": "Biggest loss",
+  "biggestLoss": "Biggest loser",
   "botAccount": "Bot Account (Non Smart contract)",
   "burn": "Burn",
   "burnSummary": "{{amount}} {{ticker}} will be burned",
