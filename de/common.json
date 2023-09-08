@@ -618,7 +618,7 @@
   "stakingPoolRatioFieldDescription": "Die Verteilung der Mittel hängt vom eingesetzten Volumen ab",
   "stakingPoolSignaDistributionModeField": "Wählen Sie den Signa-Verteilungsmodus aus",
   "stakingPoolsLandingTopSectionTitle": "Erstellen, einsetzen und verdienen Sie jederzeit und überall",
-  "stakingPoolWithNoYieldToken": "Kein Ertragstoken",
+  "stakingPoolWithNoYieldToken": "Kein Rendite-Token",
   "stakingPoolYieldTokenDescription": "Weisen Sie auch das zusätzliche Token zu, das der Pool verteilen wird.",
   "stakingPoolYieldTokenDistributionModeField": "Wählen Sie den Verteilungsmodus {{ticker}} aus",
   "stakingPoolYieldTokenToggleDescription": "Wenn Sie außerdem einen Yield Token hinzufügen möchten, aktivieren Sie das Kontrollkästchen",
