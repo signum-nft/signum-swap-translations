@@ -726,7 +726,7 @@
   "stakingPoolDescription": "Beschreibung des Staking-Pools",
   "stakingPoolDescriptionFieldLabel": "Erzählen Sie der Welt kurz vom neuen Staking Pool",
   "stakingPoolIsBeingCreated": "Es wird ein Staking-Pool erstellt. Bitte warten Sie",
-  "stakingPoolLandingTopSectionDescription": "Signum bietet dezentrale und autonome verträge in der Kette",
+  "stakingPoolLandingTopSectionDescription": "Signum bietet dezentrale und autonome Staking-Verträge auf der Blockchain",
   "stakingPoolLaunchFirstStepAlert": "Die Kosten für die Erstellung betragen 3,50 SIGNA + Transaktionsgebühren. Sie müssen mindestens 4-8 Minuten auf die Erstellung des Poolvertrags warten",
   "stakingPoolLaunchFirstStepCta": "Staking-Pool-Vertrag erstellen",
   "stakingPoolLaunchFirstStepDescription": "Wir müssen den Start des Staking-Pools starten, indem wir den Vertrag auf der Signum-Blockchain erstellen.",
