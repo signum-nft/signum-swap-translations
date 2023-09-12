@@ -1,6 +1,12 @@
-# signum-swap-translations
+# Signum Swap Translation Files
 
 This is the community repository to add and improve more languages for SignumSwap (https://www.signumswap.com/)
+
+### SignumSwap - Testnet Version
+https://test.signumswap.com/
+
+### SignumSwap - Mainnet Version (Production)
+https://www.signumswap.com/
 
 # Contributing
 
