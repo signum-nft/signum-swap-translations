@@ -649,7 +649,7 @@
   "searchToken": "Search Token",
   "secondaryAsset": "Secondary Asset",
   "secondaryAssetPair": "Secondary Asset Pair",
-  "secondaryAssetPairFieldDescription": "Assign the secondary pairs fir the pool.",
+  "secondaryAssetPairFieldDescription": "Assign the second token for the pool.",
   "secondDevPhase": "Alias Market",
   "secondStep": "2nd Step",
   "select": "Select",
