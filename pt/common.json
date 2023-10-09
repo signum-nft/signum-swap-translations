@@ -652,7 +652,7 @@
   "searchToken": "Pesquisar token",
   "secondaryAsset": "Ativo Secundário",
   "secondaryAssetPair": "Par de ativos secundários",
-  "secondaryAssetPairFieldDescription": "Atribua os pares secundários que o pool irá liquidar. O máximo permitido é {{limit}}",
+  "secondaryAssetPairFieldDescription": "Atribua o segundo token para o pool.",
   "secondDevPhase": "Mercado de alias",
   "secondStep": "2º Passo",
   "select": "Selecionar",

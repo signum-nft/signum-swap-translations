@@ -652,7 +652,7 @@
   "searchToken": "Token suchen",
   "secondaryAsset": "Sekundärer Vermögenswert",
   "secondaryAssetPair": "Sekundäres Asset-Paar",
-  "secondaryAssetPairFieldDescription": "Weisen Sie die Sekundärpaare zu, die der Pool auflösen soll. Der maximal zulässige Wert beträgt {{limit}}",
+  "secondaryAssetPairFieldDescription": "Weisen Sie dem Pool den zweiten Token zu.",
   "secondDevPhase": "Alias-Markt",
   "secondStep": "2. Schritt",
   "select": "Auswählen",

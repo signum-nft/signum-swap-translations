@@ -652,7 +652,7 @@
   "searchToken": "Buscar Ficha",
   "secondaryAsset": "Activo secundario",
   "secondaryAssetPair": "Par de activos secundarios",
-  "secondaryAssetPairFieldDescription": "Asigna los pares secundarios que liquidará el pool. El máximo permitido es {{limit}}",
+  "secondaryAssetPairFieldDescription": "Asigne el segundo token para el grupo.",
   "secondDevPhase": "Mercado de alias",
   "secondStep": "2do paso",
   "select": "Seleccione",

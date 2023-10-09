@@ -652,7 +652,7 @@
   "searchToken": "Маркер пошуку",
   "secondaryAsset": "Вторинний актив",
   "secondaryAssetPair": "Вторинна пара активів",
-  "secondaryAssetPairFieldDescription": "Призначте вторинні пари, які пул ліквідує. Максимально дозволено {{limit}}",
+  "secondaryAssetPairFieldDescription": "Призначте другий маркер для пулу.",
   "secondDevPhase": "Alias Market",
   "secondStep": "2-й крок",
   "select": "Виберіть",

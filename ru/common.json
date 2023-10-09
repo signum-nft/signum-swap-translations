@@ -652,7 +652,7 @@
   "searchToken": "Поиск токена",
   "secondaryAsset": "Вторичный актив",
   "secondaryAssetPair": "Вторичная пара активов",
-  "secondaryAssetPairFieldDescription": "Назначьте второстепенные пары, которые пул будет ликвидировать. Максимально допустимое значение — {{limit}}.",
+  "secondaryAssetPairFieldDescription": "Назначьте второй токен для пула.",
   "secondDevPhase": "Рынок алиасов",
   "secondStep": "2-й шаг",
   "select": "Выбрать",

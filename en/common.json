@@ -652,7 +652,7 @@
   "searchToken": "Search Token",
   "secondaryAsset": "Secondary Asset",
   "secondaryAssetPair": "Secondary Asset Pair",
-  "secondaryAssetPairFieldDescription": "Assign the second token for the pool. The maximum allowed is {{limit}}",
+  "secondaryAssetPairFieldDescription": "Assign the second token for the pool.",
   "secondDevPhase": "Alias Market",
   "secondStep": "2nd Step",
   "select": "Select",
