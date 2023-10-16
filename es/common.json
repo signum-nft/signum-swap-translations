@@ -282,7 +282,7 @@
   "enterHowMuchTokenToMint": "Ingrese cuánto {{ticker}} desea acuñar.",
   "enterHowMuchTokenToPledge": "Ingrese cuánto {{ticker}} desea comprometer/invertir.",
   "enterHowMuchTokenToUnPledge": "Ingrese cuánto {{ticker}} desea eliminar del grupo",
-  "enterLowerSlippageTolerance": "Debe ingresar una tolerancia de deslizamiento válida inferior al {{amount}}%",
+  "enterLowerSlippageTolerance": "Debe ingresar una tolerancia de deslizamiento válida entre {{range}}",
   "enterLowerSwapFees": "Debe ingresar una tarifa de intercambio válida inferior al {{amount}}%",
   "enterSocialNetworkTip": "Si deseas agregar redes sociales, ¡habilita esta opción!",
   "enterTheContent": "Introduce el contenido",

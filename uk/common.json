@@ -282,7 +282,7 @@
   "enterHowMuchTokenToMint": "Введіть кількість {{ticker}}, яку ви хочете викарбувати.",
   "enterHowMuchTokenToPledge": "Введіть суму {{ticker}}, яку ви хочете залучити/інвестувати.",
   "enterHowMuchTokenToUnPledge": "Введіть, скільки {{ticker}} ви хочете видалити з пулу",
-  "enterLowerSlippageTolerance": "Ви повинні ввести дійсний допуск на ковзання менше ніж {{amount}}%",
+  "enterLowerSlippageTolerance": "Ви повинні ввести дійсний допуск ковзання між {{range}}",
   "enterLowerSwapFees": "Ви повинні ввести дійсну комісію за обмін, меншу ніж {{amount}}%",
   "enterSocialNetworkTip": "Якщо ви хочете додати соціальні мережі, увімкніть цю опцію!",
   "enterTheContent": "Введіть вміст",

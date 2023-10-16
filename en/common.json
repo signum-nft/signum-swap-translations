@@ -282,7 +282,7 @@
   "enterHowMuchTokenToMint": "Enter how much {{ticker}} you want to mint.",
   "enterHowMuchTokenToPledge": "Enter how much {{ticker}} you want to pledge/invest.",
   "enterHowMuchTokenToUnPledge": "Enter how much {{ticker}} you want to remove from pool",
-  "enterLowerSlippageTolerance": "You must enter a valid slippage tolerance lower than {{amount}}%",
+  "enterLowerSlippageTolerance": "You must enter a valid slippage tolerance between {{range}}",
   "enterLowerSwapFees": "You must enter a valid swap fee lower than {{amount}}%",
   "enterSocialNetworkTip": "If you want to add social networks, enable this option!",
   "enterTheContent": "Enter the content",

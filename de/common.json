@@ -282,7 +282,7 @@
   "enterHowMuchTokenToMint": "Gib ein, wie viel {{ticker}} Du prägen möchtest.",
   "enterHowMuchTokenToPledge": "Geben Sie ein, wie viel {{ticker}} Sie verpfänden/investieren möchten.",
   "enterHowMuchTokenToUnPledge": "Geben Sie ein, wie viel {{ticker}} Sie aus dem Pool entfernen möchten",
-  "enterLowerSlippageTolerance": "Sie müssen eine gültige Slippage-Toleranz von weniger als {{amount}} % eingeben.",
+  "enterLowerSlippageTolerance": "Sie müssen eine gültige Slippage-Toleranz zwischen {{range}} eingeben.",
   "enterLowerSwapFees": "Sie müssen eine gültige Swap-Gebühr eingeben, die niedriger als {{amount}} % ist.",
   "enterSocialNetworkTip": "Wenn Sie soziale Netzwerke hinzufügen möchten, aktivieren Sie diese Option!",
   "enterTheContent": "Geben Sie den Inhalt ein",

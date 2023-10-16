@@ -282,7 +282,7 @@
   "enterHowMuchTokenToMint": "Digite quanto {{ticker}} você deseja cunhar.",
   "enterHowMuchTokenToPledge": "Insira quanto {{ticker}} você deseja prometer/investir.",
   "enterHowMuchTokenToUnPledge": "Insira quanto {{ticker}} você deseja remover do pool",
-  "enterLowerSlippageTolerance": "Você deve inserir uma tolerância de derrapagem válida inferior a {{amount}}%",
+  "enterLowerSlippageTolerance": "Você deve inserir uma tolerância de derrapagem válida entre {{range}}",
   "enterLowerSwapFees": "Você deve inserir uma taxa de swap válida inferior a {{amount}}%",
   "enterSocialNetworkTip": "Se você deseja adicionar redes sociais, habilite esta opção!",
   "enterTheContent": "Digite o conteúdo",

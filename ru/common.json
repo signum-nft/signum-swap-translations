@@ -282,7 +282,7 @@
   "enterHowMuchTokenToMint": "Введите, сколько {{ticker}} вы хотите заминтить.",
   "enterHowMuchTokenToPledge": "Введите сумму {{ticker}}, которую вы хотите заложить/инвестировать.",
   "enterHowMuchTokenToUnPledge": "Введите, сколько {{ticker}} вы хотите удалить из пула",
-  "enterLowerSlippageTolerance": "Вы должны ввести действительный допуск на проскальзывание ниже {{amount}} %.",
+  "enterLowerSlippageTolerance": "Вы должны ввести действительный допуск на проскальзывание в диапазоне {{range}}.",
   "enterLowerSwapFees": "Вы должны ввести действительную комиссию за своп ниже {{amount}} %.",
   "enterSocialNetworkTip": "Если вы хотите добавить социальные сети, включите эту опцию!",
   "enterTheContent": "Введите содержимое",
