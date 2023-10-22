@@ -440,6 +440,7 @@
   "loadMore": "Mehr laden",
   "lockedPeriodSetFeedback": "Konten können ihre Zusage nach Ablauf der oben gewählten Frist aus dem Pool zurückziehen.",
   "lockPeriod": "Sperrfrist",
+  "lpPairInProccess": "Diese Transaktion wird vom Smart Contract im kommenden Block verarbeitet",
   "mainLanguage": "Deutsch",
   "maintenanceModeDescription": "Festhalten! Bald geht es los!",
   "maintenanceModeTitle": "Wir betanken gerade die Rakete, die uns zum Mond bringen wird.",

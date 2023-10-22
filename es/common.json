@@ -440,6 +440,7 @@
   "loadMore": "Carga más",
   "lockedPeriodSetFeedback": "Las cuentas pueden retirar su compromiso del grupo después del período elegido anteriormente.",
   "lockPeriod": "Período de bloqueo",
+  "lpPairInProccess": "Esta transacción será procesada por el Contrato Inteligente en el próximo bloque.",
   "mainLanguage": "Español",
   "maintenanceModeDescription": "¡Esperar! ¡Estaremos listos muy pronto!",
   "maintenanceModeTitle": "Actualmente estamos repostando el cohete que nos llevará a la luna.",

@@ -440,6 +440,7 @@
   "loadMore": "Carregue mais",
   "lockedPeriodSetFeedback": "As contas podem retirar sua contribuição do pool após o período escolhido acima.",
   "lockPeriod": "período de bloqueio",
+  "lpPairInProccess": "Esta transação será processada pelo Contrato Inteligente no próximo bloco",
   "mainLanguage": "Português",
   "maintenanceModeDescription": "Aguentar! Estaremos prontos muito em breve!",
   "maintenanceModeTitle": "No momento, estamos reabastecendo o foguete que nos levará à lua.",
