@@ -535,6 +535,7 @@
   "notOnSale": "Not for Sale",
   "notOnSaleAliasStatus": "Sorry, this alias is already taken",
   "noTransactionsHasBeenMade": "No transactions has been made",
+  "noZeroDecimalTokens": "0 decimals tokens are not allowed. The token must have at least 1 decimal",
   "ok": "Ok",
   "onEachBlock": "On each block",
   "oneDecimalAllowed": "Only 1 decimal is allowed",

@@ -535,6 +535,7 @@
   "notOnSale": "Nicht zu verkaufen",
   "notOnSaleAliasStatus": "Entschuldigung, dieser Alias ist bereits vergeben",
   "noTransactionsHasBeenMade": "Es wurden keine Transaktionen durchgeführt",
+  "noZeroDecimalTokens": "0-Dezimal-Tokens sind nicht zulässig. Der Token muss mindestens eine Dezimalstelle haben",
   "ok": "OK",
   "onEachBlock": "Auf jedem Block",
   "oneDecimalAllowed": "Es ist nur eine Dezimalstelle erlaubt",
